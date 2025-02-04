@@ -2,11 +2,15 @@
 Welcome to my GitHub profile! I am an IT Specialist with hands-on experience in cloud infrastructure, network security, and IT support solutions. Here are some of my featured works:
 
 ## 🧑‍💻 Information Technology Projects:
-### 🔹 [Project Name](https://github.com/Gbolahan12/your-project)
+### 🔹 OsTicket (Help Desk Ticketing System)
 **Tech Stack:** Python, React, Node.js  
 Description of what this project does.
 
-### 🔹 [Another Project](https://github.com/Gbolahan12/another-project)
+### 🔹 Microsoft Azure
+**Tech Stack:** Java, Spring Boot, PostgreSQL  
+Brief explanation of its purpose.
+
+### 🔹 Active Directory
 **Tech Stack:** Java, Spring Boot, PostgreSQL  
 Brief explanation of its purpose.
 
