@@ -1,21 +1,22 @@
-<h1>Hello there👋! I'm Gbolahan Adelabu, an <a href="https://www.linkedin.com/in/gbolahan-adelabu/">IT Specialist.</a></h1>
+<h1>Hi👋, I'm Gbolahan Adelabu, an <a href="https://www.linkedin.com/in/gbolahan-adelabu/">IT Specialist</a></h1>
 Welcome to my GitHub profile! I am an IT Specialist with hands-on experience in cloud infrastructure, network security, and IT support solutions. Here are some of my featured works:
 
-## 🧑‍💻 Information Technology Projects:
-### 🔹 OsTicket (Help Desk Ticketing System)
-**Tech Stack:** Python, React, Node.js  
-Description of what this project does.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-### 🔹 Microsoft Azure
-**Tech Stack:** Java, Spring Boot, PostgreSQL  
-Brief explanation of its purpose.
+🔹 <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+    
+🔹 <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-### 🔹 Active Directory
-**Tech Stack:** Java, Spring Boot, PostgreSQL  
-Brief explanation of its purpose.
+<h2>🤳Connect with me:</h2>
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/gbolahan-adelabu/)
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/Josh
 
 <!--
 **Gbolahan12/Gbolahan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
