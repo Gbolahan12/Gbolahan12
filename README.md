@@ -1,4 +1,4 @@
-# Hello there👋! I'm Gbolahan Adelabu, an [IT Specialist](https://www.linkedin.com/in/gbolahan-adelabu/) .
+<h1>Hello there👋! I'm Gbolahan Adelabu, an <a href="https://www.linkedin.com/in/gbolahan-adelabu/">IT Specialist.</a></h1>
 Welcome to my GitHub profile! I am an IT Specialist with hands-on experience in cloud infrastructure, network security, and IT support solutions. Here are some of my featured works:
 
 ## 🧑‍💻 Information Technology Projects:
