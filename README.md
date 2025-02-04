@@ -1,7 +1,7 @@
 # Hello there👋! I'm Gbolahan Adelabu, an [IT Specialist](https://www.linkedin.com/in/gbolahan-adelabu/) .
 Welcome to my GitHub profile! I am an IT Specialist with hands-on experience in cloud infrastructure, network security, and IT support solutions. Here are some of my featured works:
 
-## 🚀 Projects
+## 🧑‍💻 Information Technology Projects:
 ### 🔹 [Project Name](https://github.com/Gbolahan12/your-project)
 **Tech Stack:** Python, React, Node.js  
 Description of what this project does.
