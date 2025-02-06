@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am an IT Professional with hands-on experience i
 
 🔹 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Gbolahan12/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Gbolahan12/post-Install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
     
 🔹 <b>Active Directory</b>
