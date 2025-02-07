@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am an IT Professional with hands-on experience i
 🔹 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Gbolahan12/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Gbolahan12/post-Install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Gbolahan12/osticket-lifecycle)
     
 🔹 <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
