@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am an IT Professional with hands-on experience i
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/gbolahan-adelabu/
 
 <!--
 **Gbolahan12/Gbolahan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
