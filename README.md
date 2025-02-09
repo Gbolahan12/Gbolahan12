@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I am an IT Professional with hands-on experience i
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Gbolahan12/osticket-lifecycle)
     
 🔹 <b>Active Directory within Azure VMs</b>
-  - [Setting Up Active Directory Infrastructure in Azure Virtual Machines (VMs)](https://github.com/Gbolahan12/Prep-AD-In-Azure)
-  - [Deploying Active Directory on Azure](https://github.com/Gbolahan12/Deploy_AD-Azure)
-  - User Management and Group Policy in Azure AD
+  - [Active Directory: Setting Up Active Directory Infrastructure in Azure Virtual Machines (VMs)](https://github.com/Gbolahan12/Prep-AD-In-Azure)
+  - [Active Directory: Deploying Active Directory on Azure](https://github.com/Gbolahan12/Deploy_AD-Azure)
+  - [Active Directory: User Management and Group Policy in Azure](https://github.com/Gbolahan12/User_Management)
 
 🔹 <b>Bank Transcations System</b>
   - [An MVC-based CRUD system for managing bank transactions with secure authentication, transaction logging, and account operations](https://github.com/Gbolahan12/BankTransactions)
