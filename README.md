@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am an IT Professional with hands-on experience i
     
 🔹 <b>Active Directory within Azure VMs</b>
   - [Setting Up Active Directory Infrastructure in Azure Virtual Machines (VMs)](https://github.com/Gbolahan12/Prep-AD-In-Azure)
-  - [Deploying Active Directory on Azure](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Deploying Active Directory on Azure](https://github.com/Gbolahan12/Deploy_AD-Azure)
   - User Management and Group Policy in Azure AD
 
 🔹 <b>Bank Transcations System</b>
